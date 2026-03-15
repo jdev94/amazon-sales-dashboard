@@ -112,7 +112,7 @@ amazon-sales-analysis
     - amazon_sales.csv
 
 - **notebook/**
-    - data_cleaning.ipynb
+    - amazon_data_cleaning.ipynb
 
 - **dashboard/**
     - amazon_dashboard.xlsx
